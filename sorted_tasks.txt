@@ -2,6 +2,8 @@
 # git-lesson-repository
 1 setup the environment
 2 basic terminal operations
+2 basic terminal operations
+2 basic terminal operations
 3 redirections
 4 manipulations
 An example repository for the command line workshop in tools and basics module.
